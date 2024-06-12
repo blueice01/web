@@ -52,7 +52,7 @@ export function Layout() {
                 </h1>
                 <h2 className="text-xl font-medium text-gray-400">Full-Stack Developer</h2>
                 <p className="mt-4 max-w-[700px] text-gray-400 md:text-xl">
-                  I'm a passionate full-stack developer with a focus on building modern, responsive, and user-friendly
+                  Im a passionate full-stack developer with a focus on building modern, responsive, and user-friendly
                   web applications.
                 </p>
               </div>
@@ -71,7 +71,7 @@ export function Layout() {
             <div className="space-y-2">
               <h2 className="text-3xl font-bold tracking-tighter md:text-4xl/tight">About Me</h2>
               <p className="max-w-[600px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-                I'm a full-stack developer with over 5 years of experience building web applications. I specialize in
+                Im a full-stack developer with over 5 years of experience building web applications. I specialize in
                 React, Node.js, and modern web technologies. In my free time, I enjoy exploring new frameworks and
                 libraries, and contributing to open-source projects.
               </p>
